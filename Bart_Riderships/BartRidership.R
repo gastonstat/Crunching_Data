@@ -3,8 +3,8 @@
 # Author:       Gaston Sanchez
 # Date:         May, 2012
 # Description:  Code in R to scrape data from BART website in order to
-#               get the station's coordinates, and visualize the
-#               average weekly ridership with using different maps
+#               get the stations coordinates, and visualize the
+#               average weekly ridership using different maps
 #
 # License:      BSD Simplified License
 #               http://www.opensource.org/license/BSD-3-Clause
